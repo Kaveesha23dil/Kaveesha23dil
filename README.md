@@ -9,7 +9,7 @@
 
 <h3 align="left">About me </h3>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics] at [Sri Lanka Technological Campus](https://sltc.ac.lk/).
+- :school: I am a `Junior` at [Faculty of Computing & IT]() at [Sri Lanka Technological Campus](https://sltc.ac.lk/).
   
 - 🌱 I’m currently learning **Java Script**
 
