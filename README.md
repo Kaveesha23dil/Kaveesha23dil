@@ -1,27 +1,22 @@
-<h1 align="center">
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="80px"><br>
-  Hi 👋, I'm Kaveesha Dilshan
-</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering Undergraduate • UI/UX Designer • Front-End Developer
-</h3>
+# Hi 👋 I'm Kaveesha Dilshan
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;UI%2FUX+Designer;Front-End+Developer;React+%7C+Next.js+%7C+TailwindCSS;Always+Learning+New+Technologies" />
-</p>
+### Software Engineering Undergraduate | UI/UX Designer | Full Stack Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Final+Year+Software+Engineering+Student;UI%2FUX+Designer;React+%7C+Next.js+Developer;Building+Modern+Web+Applications;Always+Learning+Something+New" />
+
+</div>
 
 ---
-
-<img align="right" width="280" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true">
 
 ## 👨‍💻 About Me
 
 🎓 Final Year BSc (Hons) Software Engineering Undergraduate at **Sri Lanka Technological Campus (SLTC)**
 
-🎨 Passionate UI/UX Designer
+🎨 Passionate about creating beautiful and user-friendly digital experiences.
 
-💻 Front-End Developer
+💻 I enjoy building modern web applications with clean UI and responsive design.
 
 🌱 Currently learning
 
@@ -30,110 +25,156 @@ Software Engineering Undergraduate • UI/UX Designer • Front-End Developer
 - Node.js
 - Express.js
 - MongoDB
+- Cloud Technologies
 
 🚀 Interested in
 
 - Full Stack Development
 - UI/UX Design
-- Web Applications
-- Cloud Computing
-
-📫 Email
-
-**kaveeshadilshankd23@gmail.com**
-
-🌐 Portfolio
-
-**Coming Soon...**
+- Web Development
+- Software Engineering
+- Open Source
 
 ---
 
-## 🌐 Connect with Me
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
+
+### Design
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+✨ Personal Portfolio Website
+
+🛍 E-Commerce Web Applications
+
+🎨 UI/UX Case Studies
+
+📱 Responsive Landing Pages
+
+🌐 Full Stack Web Projects
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45">
-</a>
 
-<a href="https://www.behance.net/YOUR-BEHANCE">
-<img src="https://skillicons.dev/icons?i=figma" height="45">
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kaveesha23dil&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<a href="https://youtube.com/@YOURCHANNEL">
-<img src="https://cdn.simpleicons.org/youtube/FF0000" height="45">
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaveesha23dil&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Kaveesha23dil&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaveesha23dil&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Kaveesha23dil&theme=tokyonight&no-frame=true&column=4"/>
+
+</p>
+
+---
+
+# 💡 Currently Working On
+
+- 🌐 Personal Portfolio Website
+- ⚛️ Next.js Applications
+- 🎨 UI/UX Design Projects
+- 📱 Responsive Web Interfaces
+- 🚀 Expanding Full Stack Skills
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
 
 <a href="mailto:kaveeshadilshankd23@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p>
 
----
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 🚀 Tech Stack
+<a href="https://www.behance.net/">
+<img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+</a>
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,mysql,firebase,git,github,vscode,figma,photoshop,illustrator,python,java,c,cpp,docker"/>
-
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Kaveesha23dil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+📍 Sri Lanka
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+💼 Open to Internship, Freelance & Collaboration Opportunities
 
-</p>
+![](https://komarev.com/ghpvc/?username=Kaveesha23dil&style=for-the-badge&color=0e75b6)
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+<div align="center">
 
-<p align="center">
+### ⭐ "Design with purpose. Build with passion."
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-## 👀 Visitor Count
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-</h3>
+</div>
